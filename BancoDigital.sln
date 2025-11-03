@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigital.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDidital.Infrastructure", "BancoDidital.Infrastructure\BancoDidital.Infrastructure.csproj", "{6FA749AD-89E1-473F-B306-F6E7A74224E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigital.Tests", "BancoDigital.Tests\BancoDigital.Tests.csproj", "{74A3E38E-8E74-F683-1D2F-632683D37A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A3E38E-8E74-F683-1D2F-632683D37A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A3E38E-8E74-F683-1D2F-632683D37A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A3E38E-8E74-F683-1D2F-632683D37A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A3E38E-8E74-F683-1D2F-632683D37A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
