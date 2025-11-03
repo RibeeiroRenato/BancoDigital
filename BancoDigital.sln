@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigital", "BancoDigital\BancoDigital.csproj", "{7E537C4F-94EA-4CC0-8692-4B385B174461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigital.Application", "BancoDigital.Application\BancoDigital.Application.csproj", "{C20A9CF0-B5C5-4001-B1F7-9384C906AFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDidital.Infrastructure", "BancoDidital.Infrastructure\BancoDidital.Infrastructure.csproj", "{6FA749AD-89E1-473F-B306-F6E7A74224E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{7E537C4F-94EA-4CC0-8692-4B385B174461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E537C4F-94EA-4CC0-8692-4B385B174461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E537C4F-94EA-4CC0-8692-4B385B174461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20A9CF0-B5C5-4001-B1F7-9384C906AFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20A9CF0-B5C5-4001-B1F7-9384C906AFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20A9CF0-B5C5-4001-B1F7-9384C906AFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20A9CF0-B5C5-4001-B1F7-9384C906AFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA749AD-89E1-473F-B306-F6E7A74224E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
